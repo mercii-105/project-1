@@ -3,4 +3,4 @@ if a%2==0:
       print("Even")
 else:
       print("Odd")
-
+print("why am i doing this ._.")
